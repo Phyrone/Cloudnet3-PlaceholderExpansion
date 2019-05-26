@@ -1,0 +1,8 @@
+name: Cloudnet3-Placeholder-Addon
+version: ${project.version}
+main: de.phyrone.cloudnet3placeholderaddon.Cloudnet3PlaceholderAddon
+depend:
+  - PlaceholderAPI
+authors:
+  - Phyrone
+description: Cloudnet3 Placeholders for PlaceholderAPI
